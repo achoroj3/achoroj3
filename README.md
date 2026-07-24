@@ -5,10 +5,15 @@ My name is Ojotule Achor, a Junior undergraduate studying Computer Science at th
 I want to pursue Machine Learning and AI, as the extremely dynamic field enables me to creatively solve real-world problems. I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!) Currently, I'm focusing on building machine learning models, alongside leveraging my skills towards an internship, where I can contribute to exciting projects and learn from industry professionals. I also plan to obtain my Master's after my undergraduate, to learn even more about the field.
 
 🛠 Tech Stack:
+
 Languages: Python, C++.
+
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow.
+
 Web Dev: HTML, CSS, JavaScript (basic).
+
 Tools: Jupyter Notebooks, Git, GitHub, Streamlit.
+
 Databases: SQL.
 
 Here are some things I've been working on:
